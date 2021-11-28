@@ -1,3 +1,10 @@
+# Setup Commands
+```
+git clone {repo}
+cd moviesuggest
+yarn
+```
+
 # How to run
 ```
 yarn start
